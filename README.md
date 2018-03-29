@@ -1,2 +1,2 @@
-# Rosalind_Solutions
+# Rosalind Solutions
 Solutions for Rosalind Problems
