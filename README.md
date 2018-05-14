@@ -9,5 +9,3 @@ HEAD
 - [BS_RNA](http://rosalind.info/problems/rna/)
 - [BS_REVC](http://rosalind.info/problems/revc/)
 - [BS_FIB](http://rosalind.info/problems/fib/)
-
-e0b3e69a8457e0829c19f5de0afa33325933e0c1
