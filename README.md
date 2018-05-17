@@ -10,3 +10,4 @@ HEAD
 - [BS_REVC](http://rosalind.info/problems/revc/)
 - [BS_FIB](http://rosalind.info/problems/fib/)
 - [BS_GC](http://rosalind.info/problems/gc/)
+- [BS_HAMM](http://rosalind.info/problems/hamm/)
