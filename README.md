@@ -12,3 +12,4 @@ HEAD
 - [BS_GC](http://rosalind.info/problems/gc/)
 - [BS_HAMM](http://rosalind.info/problems/hamm/)
 - [BS_IPRB](http://rosalind.info/problems/iprb/)
+- [BS_PROT](http://rosalind.info/problems/prot/)
