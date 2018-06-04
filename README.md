@@ -15,3 +15,4 @@ HEAD
 - [BS_PROT](http://rosalind.info/problems/prot/)
 - [BS_SUBS](http://rosalind.info/problems/subs/)
 - [BS_CONS](http://rosalind.info/problems/cons/)
+- [BS_CONS](http://rosalind.info/problems/fibd/)
