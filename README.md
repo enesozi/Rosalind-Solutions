@@ -16,3 +16,4 @@ HEAD
 - [BS_SUBS](http://rosalind.info/problems/subs/)
 - [BS_CONS](http://rosalind.info/problems/cons/)
 - [BS_CONS](http://rosalind.info/problems/fibd/)
+- [BS_GRPH](http://rosalind.info/problems/grph/)
