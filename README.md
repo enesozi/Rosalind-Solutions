@@ -15,6 +15,7 @@ HEAD
 - [BS_PROT](http://rosalind.info/problems/prot/)
 - [BS_SUBS](http://rosalind.info/problems/subs/)
 - [BS_CONS](http://rosalind.info/problems/cons/)
-- [BS_CONS](http://rosalind.info/problems/fibd/)
+- [BS_FIBD](http://rosalind.info/problems/fibd/)
 - [BS_GRPH](http://rosalind.info/problems/grph/)
 - [BS_IEV](http://rosalind.info/problems/iev/)
+- [BS_LCSM](http://rosalind.info/problems/lcsm/)
