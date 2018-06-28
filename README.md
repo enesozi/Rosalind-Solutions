@@ -20,3 +20,4 @@ HEAD
 - [BS_IEV](http://rosalind.info/problems/iev/)
 - [BS_LCSM](http://rosalind.info/problems/lcsm/)
 - [BS_LIA](http://rosalind.info/problems/lia/)
+- [BS_LIA](http://rosalind.info/problems/mprt/)
