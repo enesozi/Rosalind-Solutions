@@ -22,3 +22,5 @@ HEAD
 - [BS_LIA](http://rosalind.info/problems/lia/)
 - [BS_MPRT](http://rosalind.info/problems/mprt/)
 - [BS_MRNA](http://rosalind.info/problems/mrna/)
+- [BS_PERM](http://rosalind.info/problems/perm/)
+- [BS_PPER](http://rosalind.info/problems/pper/)
