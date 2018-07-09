@@ -24,3 +24,4 @@ HEAD
 - [BS_MRNA](http://rosalind.info/problems/mrna/)
 - [BS_PERM](http://rosalind.info/problems/perm/)
 - [BS_PPER](http://rosalind.info/problems/pper/)
+- [BS_PRTM](http://rosalind.info/problems/prtm/)
