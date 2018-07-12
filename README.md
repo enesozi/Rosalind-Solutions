@@ -25,3 +25,4 @@ HEAD
 - [BS_PERM](http://rosalind.info/problems/perm/)
 - [BS_PPER](http://rosalind.info/problems/pper/)
 - [BS_PRTM](http://rosalind.info/problems/prtm/)
+- [BS_PRTM](http://rosalind.info/problems/prob/)
