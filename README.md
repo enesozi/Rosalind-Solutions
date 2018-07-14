@@ -27,3 +27,4 @@ HEAD
 - [BS_PRTM](http://rosalind.info/problems/prtm/)
 - [BS_PRTM](http://rosalind.info/problems/prob/)
 - [AH_FIBO](http://rosalind.info/problems/fibo/)
+- [AH_BINS](http://rosalind.info/problems/bins/)
