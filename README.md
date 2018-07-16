@@ -29,3 +29,4 @@ HEAD
 - [AH_FIBO](http://rosalind.info/problems/fibo/)
 - [AH_BINS](http://rosalind.info/problems/bins/)
 - [AH_INS](http://rosalind.info/problems/ins/)
+- [AH_DEG](http://rosalind.info/problems/deg/)
