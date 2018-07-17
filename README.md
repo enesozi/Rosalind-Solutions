@@ -32,3 +32,4 @@ HEAD
 - [AH_DEG](http://rosalind.info/problems/deg/)
 - [AH_MAJ](http://rosalind.info/problems/maj/)
 - [AH_DDEG](http://rosalind.info/problems/ddeg/)
+- [AH_BFS](http://rosalind.info/problems/bfs/)
