@@ -30,3 +30,4 @@ HEAD
 - [AH_BINS](http://rosalind.info/problems/bins/)
 - [AH_INS](http://rosalind.info/problems/ins/)
 - [AH_DEG](http://rosalind.info/problems/deg/)
+- [AH_MAJ](http://rosalind.info/problems/maj/)
