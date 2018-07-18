@@ -33,3 +33,4 @@ HEAD
 - [AH_MAJ](http://rosalind.info/problems/maj/)
 - [AH_DDEG](http://rosalind.info/problems/ddeg/)
 - [AH_BFS](http://rosalind.info/problems/bfs/)
+- [AH_MER](http://rosalind.info/problems/mer/)
