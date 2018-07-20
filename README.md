@@ -37,3 +37,4 @@ HEAD
 - [AH_2SUM](http://rosalind.info/problems/2sum/)
 - [AH_MS](http://rosalind.info/problems/ms/)
 - [AH_DIJ](http://rosalind.info/problems/dij/)
+- [AH_2WAY](http://rosalind.info/problems/par/)
