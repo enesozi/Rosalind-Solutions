@@ -38,3 +38,4 @@ HEAD
 - [AH_MS](http://rosalind.info/problems/ms/)
 - [AH_DIJ](http://rosalind.info/problems/dij/)
 - [AH_2WAY](http://rosalind.info/problems/par/)
+- [AH_CC](http://rosalind.info/problems/cc/)
