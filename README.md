@@ -41,3 +41,4 @@ HEAD
 - [AH_CC](http://rosalind.info/problems/cc/)
 - [AH_3WAY](http://rosalind.info/problems/par3/)
 - [AH_HEA](http://rosalind.info/problems/hea/)
+- [AH_DAG](http://rosalind.info/problems/dag/)
